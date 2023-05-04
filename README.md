@@ -2,7 +2,7 @@
 Estimate the foot size given two views of a foot,
 basically using traditional image processing techniques.
 
-## 📌 Result: A footprint image with a bounding box and an estimated size of a foot
+## 📌 Result: A footprint image with a bounding box and an estimated size
 ![(3)_footprint image](https://user-images.githubusercontent.com/40861818/236153429-605fcb65-a3ae-485e-a584-802c05aa1ac5.jpg)
 
 ## 📌 Image Processing Architecture
